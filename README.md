@@ -1,7 +1,7 @@
 # Er-Yuvraj-coder
 Config files for my GitHub profile.
 <h1 align="center">Hi 👋, I'm Your Yuvraj</h1>
-<h3 align="center">A passionate [Your Role: e.g. Full Stack Developer | Data Scientist | AI Enthusiast] from [Your Country]</h3>
+<h3 align="center">A passionate Full Stack Developer from Nepal </h3>
 
 ---
 
