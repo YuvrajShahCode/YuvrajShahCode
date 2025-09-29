@@ -11,16 +11,16 @@ Config files for my GitHub profile.
 - 👯 I’m looking to collaborate on **[Google/Meta]**
 - 💬 Ask me about **[React, Node.js, Python, AI, Html, Css, JavaScript, NextJs, MicroSoft Office, AfterEffect, AdobePhotoShop, VideoEditing, Life Lession]**
 - 📫 Reach me at **[yuvrajshah.nick@gmail.com]**
-- ⚡ Fun fact: *[Something unique/fun about you]*
+- ⚡ Fun fact: *[Something unique/fun about me]*
 
 ---
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/yourusername" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/yourusername" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://dev.to/yourusername" target="blank"><img src="https://img.shields.io/badge/DEV.to-000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/badge/DEV.to-000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<a href="mailto:yuvrajshah.nick.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -39,15 +39,15 @@ Config files for my GitHub profile.
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YuvrajShahCode&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajShahCode&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YuvrajShahCode&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
