@@ -19,7 +19,7 @@ Config files for my GitHub profile.
 <p align="left">
 <a href="" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="" target="blank"><img src="https://img.shields.io/badge/DEV.to-000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<a href="https://dev.to/yuvraj_shah_code" target="blank"><img src="https://img.shields.io/badge/DEV.to-000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 <a href="mailto:yuvrajshah.nick.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
