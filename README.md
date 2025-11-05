@@ -64,5 +64,5 @@
 ---
 
 ## 📫 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=yuvrajshah&color=blue&style=flat-square&label=Visitors)
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square&label=Visitors)
 
