@@ -5,12 +5,12 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[A secret project]**
-- 🌱 I’m currently learning **[AI/ML]**
-- 👯 I’m looking to collaborate on **[Google/Meta]**
-- 💬 Ask me about **[React, Node.js, Python, AI, Html, Css, JavaScript, NextJs, MicroSoft Office, AfterEffect, AdobePhotoShop, VideoEditing, Life Lession]**
-- 📫 Reach me at **[yuvrajshah.nick@gmail.com]**
-- ⚡ Fun fact: *[Something unique/fun about me]*
+- 🔭 I’m currently working on **A secret project**
+- 🌱 I’m currently learning **AI/ML**
+- 👯 I’m looking to collaborate on **Google/Meta**
+- 💬 Ask me about **React, Node.js, Python, AI, Html, Css, JavaScript, NextJs, MicroSoft Office, AfterEffect, AdobePhotoShop, VideoEditing, Life Lession**
+- 📫 Reach me at **yuvrajshah.nick@gmail.com**
+- ⚡ Fun fact: *I can try thing related to Information and Technology*
 
 ---
 
