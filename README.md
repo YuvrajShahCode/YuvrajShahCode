@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[OurSansarNepal]**
+- 🔭 I’m currently working on **[A secret project]**
 - 🌱 I’m currently learning **[AI/ML]**
 - 👯 I’m looking to collaborate on **[Google/Meta]**
 - 💬 Ask me about **[React, Node.js, Python, AI, Html, Css, JavaScript, NextJs, MicroSoft Office, AfterEffect, AdobePhotoShop, VideoEditing, Life Lession]**
