@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Google/Meta**
 - 💬 Ask me about **React, Node.js, Python, AI, Html, Css, JavaScript, NextJs, MicroSoft Office, AfterEffect, AdobePhotoShop, VideoEditing, Life Lession**
 - 📫 Reach me at **yuvrajshah.nick@gmail.com**
-- ⚡ Fun fact: *I can try thing related to Information and Technology*
+- ⚡ Fun fact: *I can try anything related to Information and Technology*
 
 ---
 
